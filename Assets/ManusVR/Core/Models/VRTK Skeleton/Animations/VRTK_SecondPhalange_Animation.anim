@@ -1,0 +1,4171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: VRTK_SecondPhalange_Animation
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0016227643, y: 0.006103783, z: -0.019646484, w: 0.99978703}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.00074389385, y: 0.000013969838, z: 0.00005587935, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0016227642, y: 0.006103783, z: -0.019646484, w: 0.99978703}
+        inSlope: {x: 0.746136, y: -0.01466833, z: -0.0043585896, w: 0.0017881392}
+        outSlope: {x: 0.747788, y: -0.014682299, z: -0.0043027103, w: 0.0017881392}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.04823801, y: 0.0051164306, z: -0.01992643, w: 0.9986239}
+        inSlope: {x: 2.9268486, y: -0.058030706, z: -0.01117587, w: -0.14305113}
+        outSlope: {x: 2.931431, y: -0.058114532, z: -0.011287631, w: -0.13947488}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.19356225, y: 0.0021514718, z: -0.020460002, w: 0.9808723}
+        inSlope: {x: 4.9665575, y: -0.09736978, z: 0.0022351744, w: -0.98168856}
+        outSlope: {x: 4.968344, y: -0.09746755, z: 0.0020675359, w: -0.9799002}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.37857658, y: -0.0018232549, z: -0.020491853, w: 0.92534125}
+        inSlope: {x: 4.698335, y: -0.08468515, z: 0.03263354, w: -1.9222494}
+        outSlope: {x: 4.6974425, y: -0.08462929, z: 0.03241003, w: -1.9186736}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.5096571, y: -0.0047964044, z: -0.020005874, w: 0.8601316}
+        inSlope: {x: 2.5302174, y: -0.040680174, z: 0.033024702, w: -1.500249}
+        outSlope: {x: 2.5302174, y: -0.040568415, z: 0.032745305, w: -1.4966727}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.55191797, y: -0.0057881232, z: -0.01974178, w: 0.8336445}
+        inSlope: {x: 0.62227255, y: -0.012796373, z: 0.006370247, w: -0.41484836}
+        outSlope: {x: 0.6240607, y: -0.012852252, z: 0.006370247, w: -0.41127208}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.55191797, y: -0.0057881232, z: -0.019741781, w: 0.8336445}
+        inSlope: {x: 0, y: 0.000055879358, z: -0.000111758716, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.05061089, y: -0.032405097, z: 0.00621366, w: 0.99817324}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.0006705522, y: 0, z: -0.000027939675, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.05061089, y: -0.032405097, z: 0.0062136585, w: 0.99817324}
+        inSlope: {x: 0.68686897, y: 0.004246831, z: 0.022253951, w: -0.033974648}
+        outSlope: {x: 0.6884336, y: 0.0043585896, z: 0.0223238, w: -0.033974648}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.096448205, y: -0.03208515, z: 0.0076969066, w: 0.994791}
+        inSlope: {x: 2.6763973, y: 0.02067536, z: 0.085537314, w: -0.26106834}
+        outSlope: {x: 2.679974, y: 0.020451846, z: 0.08566306, w: -0.25928023}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.22866619, y: -0.030767031, z: 0.01192013, w: 0.9729456}
+        inSlope: {x: 4.5043235, y: 0.053588305, z: 0.13972634, w: -1.0567905}
+        outSlope: {x: 4.5056634, y: 0.053700052, z: 0.13975424, w: -1.0603665}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.39580077, y: -0.028198803, z: 0.017132636, w: 0.91774344}
+        inSlope: {x: 4.2593474, y: 0.075213596, z: 0.12589617, w: -1.8364187}
+        outSlope: {x: 4.256666, y: 0.07521362, z: 0.12578444, w: -1.8364192}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.5150207, y: -0.025653271, z: 0.020751126, w: 0.8565424}
+        inSlope: {x: 2.3156407, y: 0.0522472, z: 0.06532297, w: -1.3947488}
+        outSlope: {x: 2.3084881, y: 0.0522472, z: 0.06532297, w: -1.3875962}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.5538563, y: -0.024672091, z: 0.021908611, w: 0.8319582}
+        inSlope: {x: 0.57220465, y: 0.0147521505, z: 0.01654029, w: -0.38266185}
+        outSlope: {x: 0.5757809, y: 0.014696271, z: 0.01665205, w: -0.38266185}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.5538563, y: -0.02467209, z: 0.021908611, w: 0.8319582}
+        inSlope: {x: 0, y: 0.000055879358, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.012996577, y: -0.010561259, z: -0.009060043, w: 0.9998187}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.0007823109, y: 0.000027939675, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.012996577, y: -0.010561259, z: -0.009060043, w: 0.9998187}
+        inSlope: {x: 0.7722526, y: -0.014360993, z: 0.019390134, w: -0.010728835}
+        outSlope: {x: 0.77381724, y: -0.0144168725, z: 0.019446013, w: -0.010728835}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.06457615, y: -0.011501655, z: -0.007764557, w: 0.9978163}
+        inSlope: {x: 3.0331311, y: -0.055544075, z: 0.0796141, w: -0.19669531}
+        outSlope: {x: 3.0369313, y: -0.05559996, z: 0.07969794, w: -0.19848348}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.21509968, y: -0.014086129, z: -0.003838615, w: 0.976483}
+        inSlope: {x: 5.1377716, y: -0.08395874, z: 0.14540507, w: -1.1318923}
+        outSlope: {x: 5.1391115, y: -0.083874896, z: 0.14543298, w: -1.1336801}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.40607926, y: -0.016996382, z: 0.0014778348, w: 0.91367865}
+        inSlope: {x: 4.823505, y: -0.06051733, z: 0.15083233, w: -2.1439788}
+        outSlope: {x: 4.820824, y: -0.060629103, z: 0.15070663, w: -2.1457675}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.53989583, y: -0.018744834, z: 0.0054672984, w: 0.84150535}
+        inSlope: {x: 2.5713446, y: -0.022072347, z: 0.08873642, w: -1.6504527}
+        outSlope: {x: 2.5659802, y: -0.022016468, z: 0.088457026, w: -1.6468765}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.58260226, y: -0.019241238, z: 0.0067965332, w: 0.8125012}
+        inSlope: {x: 0.62763697, y: -0.006202609, z: 0.02101064, w: -0.45061114}
+        outSlope: {x: 0.62763697, y: -0.005923212, z: 0.020843001, w: -0.448823}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.58260226, y: -0.019241238, z: 0.0067965332, w: 0.8125012}
+        inSlope: {x: 0, y: 0.000055879358, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.016483495, y: -0.073335804, z: -0.008949762, w: 0.99713093}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.00072643155, y: 0, z: 0.000027939675, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.016483495, y: -0.073335804, z: -0.008949762, w: 0.99713093}
+        inSlope: {x: 0.68424267, y: 0.04738569, z: -0.021345912, w: -0.007152557}
+        outSlope: {x: 0.6856955, y: 0.047832724, z: -0.02140179, w: -0.007152557}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.062181376, y: -0.07011658, z: -0.010347238, w: 0.99554515}
+        inSlope: {x: 2.6696918, y: 0.19960104, z: -0.084657215, w: -0.15199183}
+        outSlope: {x: 2.6732686, y: 0.20116569, z: -0.08476899, w: -0.15556814}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.19438517, y: -0.059909683, z: -0.014288806, w: 0.97898984}
+        inSlope: {x: 4.513711, y: 0.39260837, z: -0.13444574, w: -0.87261206}
+        outSlope: {x: 4.514604, y: 0.39260828, z: -0.13433395, w: -0.8744}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.3624473, y: -0.044902086, z: -0.01906908, w: 0.93072677}
+        inSlope: {x: 4.2977924, y: 0.44122332, z: -0.10661779, w: -1.6522405}
+        outSlope: {x: 4.2960052, y: 0.44133517, z: -0.106785454, w: -1.6558172}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.4831306, y: -0.03252665, z: -0.022320487, w: 0.8746592}
+        inSlope: {x: 2.3487213, y: 0.27146193, z: -0.0487268, w: -1.2892486}
+        outSlope: {x: 2.345145, y: 0.27135018, z: -0.0487268, w: -1.2874604}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.52262104, y: -0.02813872, z: -0.023346093, w: 0.85178083}
+        inSlope: {x: 0.5847216, y: 0.067725785, z: -0.01396984, w: -0.35405162}
+        outSlope: {x: 0.58114535, y: 0.06750227, z: -0.013634563, w: -0.35941604}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.52262104, y: -0.02813872, z: -0.023346093, w: 0.85178083}
+        inSlope: {x: 0, y: -0.000111758716, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.00079479476, y: 0.0105927745, z: 0.0011225805, w: 0.999943}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.000729924, y: 0.000027939675, z: -0.00006635673, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0007947937, y: 0.0105927745, z: 0.0011225797, w: 0.999943}
+        inSlope: {x: 0.73009866, y: -0.033248216, z: 0.062752515, w: 0.0017881392}
+        outSlope: {x: 0.7315253, y: -0.033332035, z: 0.06287824, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.047981355, y: 0.008394352, z: 0.005295949, w: 0.9987989}
+        inSlope: {x: 2.8594582, y: -0.13799407, z: 0.24768522, w: -0.13947487}
+        outSlope: {x: 2.8645995, y: -0.13824554, z: 0.24814625, w: -0.13768674}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.18994729, y: 0.0018496839, z: 0.01742633, w: 0.9816379}
+        inSlope: {x: 4.8512225, y: -0.25130343, z: 0.41373077, w: -0.9459258}
+        outSlope: {x: 4.853009, y: -0.25127545, z: 0.41378656, w: -0.9477137}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.3707193, y: -0.006818093, z: 0.03283482, w: 0.9281393}
+        inSlope: {x: 4.5990934, y: -0.2587493, z: 0.37193292, w: -1.852512}
+        outSlope: {x: 4.5973067, y: -0.25853983, z: 0.371933, w: -1.8507243}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.4992596, y: -0.0132438075, z: 0.043761663, w: 0.8652453}
+        inSlope: {x: 2.4890902, y: -0.14986844, z: 0.19099565, w: -1.4466048}
+        outSlope: {x: 2.485514, y: -0.1497008, z: 0.19054861, w: -1.4448167}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.54085666, y: -0.015378635, z: 0.047291465, w: 0.8396434}
+        inSlope: {x: 0.61333185, y: -0.03397465, z: 0.050179664, w: -0.3987551}
+        outSlope: {x: 0.61512, y: -0.03414229, z: 0.049397353, w: -0.40054324}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.54085666, y: -0.015378639, z: 0.04729154, w: 0.8396434}
+        inSlope: {x: 0, y: -0.000055879358, z: -0.00022351743, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.013001822, y: 0.0096748555, z: 0.0070989714, w: 0.9998434}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.0007543712, y: 0, z: -0.00005587935, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.013001822, y: 0.0096748555, z: 0.0070989714, w: 0.9998434}
+        inSlope: {x: 0.74998474, y: -0.021345912, z: 0.047455538, w: -0.008940696}
+        outSlope: {x: 0.75149345, y: -0.02140179, z: 0.047567297, w: -0.008940696}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.06309137, y: 0.008264455, z: 0.010253281, w: 0.9979209}
+        inSlope: {x: 2.9403715, y: -0.09041279, z: 0.18579884, w: -0.18775462}
+        outSlope: {x: 2.9450657, y: -0.09046868, z: 0.18607827, w: -0.18775465}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.20895043, y: 0.004010918, z: 0.019346915, w: 0.97772664}
+        inSlope: {x: 4.978627, y: -0.17057174, z: 0.30236322, w: -1.0675193}
+        outSlope: {x: 4.9804144, y: -0.17050186, z: 0.3026984, w: -1.0710953}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.39413, y: -0.0017260183, z: 0.03068138, w: 0.9185408}
+        inSlope: {x: 4.6902885, y: -0.18607822, z: 0.25738028, w: -2.0205972}
+        outSlope: {x: 4.689396, y: -0.18588269, z: 0.2574921, w: -2.0205977}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.5247329, y: -0.006037373, z: 0.038509406, w: 0.85037404}
+        inSlope: {x: 2.5194886, y: -0.1147762, z: 0.12204052, w: -1.5610458}
+        outSlope: {x: 2.5105479, y: -0.114552684, z: 0.12192876, w: -1.5574695}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.5666898, y: -0.007478595, z: 0.040989105, w: 0.8228771}
+        inSlope: {x: 0.6204844, y: -0.024810435, z: 0.0333041, w: -0.42736533}
+        outSlope: {x: 0.61690813, y: -0.024586918, z: 0.03319234, w: -0.4255772}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.5666898, y: -0.007478595, z: 0.040989105, w: 0.8228771}
+        inSlope: {x: 0, y: 0, z: 0.000111758716, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0075902734, y: 0.013886512, z: -0.016617293, w: 0.99973667}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.0006705522, y: -0.000027939675, z: -0.00005587935, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.007590275, y: 0.013886512, z: -0.016617293, w: 0.99973667}
+        inSlope: {x: 0.6697839, y: -0.0041071326, z: 0.024363397, w: 0.0053644176}
+        outSlope: {x: 0.67118084, y: -0.004135072, z: 0.024531035, w: 0.0053644176}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.037165083, y: 0.013615273, z: -0.014975239, w: 0.99910414}
+        inSlope: {x: 2.6132538, y: -0.020368023, z: 0.09818002, w: -0.09477138}
+        outSlope: {x: 2.6171656, y: -0.020368027, z: 0.09845943, w: -0.09655953}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.16673827, y: 0.012672098, z: -0.010034815, w: 0.98586875}
+        inSlope: {x: 4.431904, y: -0.046603385, z: 0.17412008, w: -0.74565417}
+        outSlope: {x: 4.434138, y: -0.046715133, z: 0.17425974, w: -0.74923027}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.33215284, y: 0.01111056, z: -0.0033058412, w: 0.9431543}
+        inSlope: {x: 4.2495127, y: -0.05864537, z: 0.17293958, w: -1.4984605}
+        outSlope: {x: 4.2477255, y: -0.058505688, z: 0.17289771, w: -1.4930965}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.45192078, y: 0.009699921, z: 0.0018968047, w: 0.8920033}
+        inSlope: {x: 2.3406746, y: -0.037746508, z: 0.09869692, w: -1.1855365}
+        outSlope: {x: 2.3379924, y: -0.03752299, z: 0.09848737, w: -1.1837484}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.49138004, y: 0.00917617, z: 0.0036805524, w: 0.8708892}
+        inSlope: {x: 0.5829335, y: -0.00871718, z: 0.02615154, w: -0.3308058}
+        outSlope: {x: 0.58114535, y: -0.008661301, z: 0.026039781, w: -0.3308058}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.49138004, y: 0.00917617, z: 0.0036805524, w: 0.8708892}
+        inSlope: {x: -0.00089406973, y: 0, z: -0.000027939679, w: 0.0017881395}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.02411879, y: 0.10251587, z: -0.0167706, w: 0.9942975}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.0007823109, y: 0.0002235174, z: 0.00016763805, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.024118792, y: 0.10251587, z: -0.016770598, w: 0.9942975}
+        inSlope: {x: 0.77191734, y: -0.29012558, z: -0.20032747, w: 0.008940696}
+        outSlope: {x: 0.77348197, y: -0.29146668, z: -0.20071863, w: 0.0053644176}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.07561375, y: 0.08286194, z: -0.03030411, w: 0.9932261}
+        inSlope: {x: 3.126338, y: -1.1743604, z: -0.77197325, w: -0.16272067}
+        outSlope: {x: 3.1310322, y: -1.1768193, z: -0.7733703, w: -0.16450883}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.23144256, y: 0.021145388, z: -0.07104844, w: 0.97002035}
+        inSlope: {x: 5.4936113, y: -2.0525606, z: -1.2134762, w: -1.3536216}
+        outSlope: {x: 5.4971867, y: -2.055466, z: -1.2154875, w: -1.3571975}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.43653718, y: -0.06579162, z: -0.12414123, w: 0.8886483}
+        inSlope: {x: 5.212425, y: -1.8473711, z: -0.8806585, w: -2.8198953}
+        outSlope: {x: 5.2115326, y: -1.8482656, z: -0.88155276, w: -2.819896}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.5787589, y: -0.13095962, z: -0.16050208, w: 0.7887501}
+        inSlope: {x: 2.7197602, y: -1.0518731, z: -0.45731667, w: -2.2655728}
+        outSlope: {x: 2.716184, y: -1.0465087, z: -0.45686963, w: -2.2602084}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.6226193, y: -0.15215588, z: -0.17161304, w: 0.74815965}
+        inSlope: {x: 0.6473065, y: -0.30085447, z: -0.15020372, w: -0.63121325}
+        outSlope: {x: 0.6437302, y: -0.30040744, z: -0.14752151, w: -0.63121325}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.6226193, y: -0.15215588, z: -0.17161304, w: 0.74815965}
+        inSlope: {x: 0, y: -0.00089406973, z: 0.00044703486, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: -0.08750358, y: 0.17877036, z: 0.020985099, w: 0.97976726}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.74453646, y: 0.002235174, z: -0.13081357, w: 0.068843365}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: -0.0035699415, y: 0.17789097, z: 0.006157413, w: 0.98402447}
+        inSlope: {x: 1.2607499, y: -0.023022292, z: -0.22251157, w: 0.010728835}
+        outSlope: {x: 1.2598281, y: -0.023022296, z: -0.22235096, w: 0.009834767}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.046188902, y: 0.17707922, z: -0.002668553, w: 0.9831085}
+        inSlope: {x: 0.19541012, y: -0.0006705523, z: -0.03489666, w: -0.009834767}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0180917, y: 1.942988, z: 1.6065003}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 47.761, y: 3.7140002, z: 2.39}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 47.761, y: 3.7140002, z: 2.39}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3625559923
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2453546067
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 492002443
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 909499690
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4176252947
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2349201881
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2601761681
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1602748063
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1565340118
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2300256974
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.23333333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0016227643
+        inSlope: 0
+        outSlope: -0.00074389385
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.0016227642
+        inSlope: 0.746136
+        outSlope: 0.747788
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.04823801
+        inSlope: 2.9268486
+        outSlope: 2.931431
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.19356225
+        inSlope: 4.9665575
+        outSlope: 4.968344
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.37857658
+        inSlope: 4.698335
+        outSlope: 4.6974425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5096571
+        inSlope: 2.5302174
+        outSlope: 2.5302174
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.55191797
+        inSlope: 0.62227255
+        outSlope: 0.6240607
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.55191797
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.006103783
+        inSlope: 0
+        outSlope: 0.000013969838
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.006103783
+        inSlope: -0.01466833
+        outSlope: -0.014682299
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.0051164306
+        inSlope: -0.058030706
+        outSlope: -0.058114532
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.0021514718
+        inSlope: -0.09736978
+        outSlope: -0.09746755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.0018232549
+        inSlope: -0.08468515
+        outSlope: -0.08462929
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.0047964044
+        inSlope: -0.040680174
+        outSlope: -0.040568415
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.0057881232
+        inSlope: -0.012796373
+        outSlope: -0.012852252
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.0057881232
+        inSlope: 0.000055879358
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.019646484
+        inSlope: 0
+        outSlope: 0.00005587935
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.019646484
+        inSlope: -0.0043585896
+        outSlope: -0.0043027103
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.01992643
+        inSlope: -0.01117587
+        outSlope: -0.011287631
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.020460002
+        inSlope: 0.0022351744
+        outSlope: 0.0020675359
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.020491853
+        inSlope: 0.03263354
+        outSlope: 0.03241003
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.020005874
+        inSlope: 0.033024702
+        outSlope: 0.032745305
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.01974178
+        inSlope: 0.006370247
+        outSlope: 0.006370247
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.019741781
+        inSlope: -0.000111758716
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99978703
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.99978703
+        inSlope: 0.0017881392
+        outSlope: 0.0017881392
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.9986239
+        inSlope: -0.14305113
+        outSlope: -0.13947488
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.9808723
+        inSlope: -0.98168856
+        outSlope: -0.9799002
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.92534125
+        inSlope: -1.9222494
+        outSlope: -1.9186736
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.8601316
+        inSlope: -1.500249
+        outSlope: -1.4966727
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8336445
+        inSlope: -0.41484836
+        outSlope: -0.41127208
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.8336445
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.05061089
+        inSlope: 0
+        outSlope: -0.0006705522
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.05061089
+        inSlope: 0.68686897
+        outSlope: 0.6884336
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.096448205
+        inSlope: 2.6763973
+        outSlope: 2.679974
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.22866619
+        inSlope: 4.5043235
+        outSlope: 4.5056634
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.39580077
+        inSlope: 4.2593474
+        outSlope: 4.256666
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5150207
+        inSlope: 2.3156407
+        outSlope: 2.3084881
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.5538563
+        inSlope: 0.57220465
+        outSlope: 0.5757809
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.5538563
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.032405097
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.032405097
+        inSlope: 0.004246831
+        outSlope: 0.0043585896
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.03208515
+        inSlope: 0.02067536
+        outSlope: 0.020451846
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.030767031
+        inSlope: 0.053588305
+        outSlope: 0.053700052
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.028198803
+        inSlope: 0.075213596
+        outSlope: 0.07521362
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.025653271
+        inSlope: 0.0522472
+        outSlope: 0.0522472
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.024672091
+        inSlope: 0.0147521505
+        outSlope: 0.014696271
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.02467209
+        inSlope: 0.000055879358
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00621366
+        inSlope: 0
+        outSlope: -0.000027939675
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.0062136585
+        inSlope: 0.022253951
+        outSlope: 0.0223238
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.0076969066
+        inSlope: 0.085537314
+        outSlope: 0.08566306
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.01192013
+        inSlope: 0.13972634
+        outSlope: 0.13975424
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.017132636
+        inSlope: 0.12589617
+        outSlope: 0.12578444
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.020751126
+        inSlope: 0.06532297
+        outSlope: 0.06532297
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.021908611
+        inSlope: 0.01654029
+        outSlope: 0.01665205
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.021908611
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99817324
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.99817324
+        inSlope: -0.033974648
+        outSlope: -0.033974648
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.994791
+        inSlope: -0.26106834
+        outSlope: -0.25928023
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.9729456
+        inSlope: -1.0567905
+        outSlope: -1.0603665
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.91774344
+        inSlope: -1.8364187
+        outSlope: -1.8364192
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.8565424
+        inSlope: -1.3947488
+        outSlope: -1.3875962
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8319582
+        inSlope: -0.38266185
+        outSlope: -0.38266185
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.8319582
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.012996577
+        inSlope: 0
+        outSlope: -0.0007823109
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.012996577
+        inSlope: 0.7722526
+        outSlope: 0.77381724
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.06457615
+        inSlope: 3.0331311
+        outSlope: 3.0369313
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.21509968
+        inSlope: 5.1377716
+        outSlope: 5.1391115
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.40607926
+        inSlope: 4.823505
+        outSlope: 4.820824
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.53989583
+        inSlope: 2.5713446
+        outSlope: 2.5659802
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.58260226
+        inSlope: 0.62763697
+        outSlope: 0.62763697
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.58260226
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.010561259
+        inSlope: 0
+        outSlope: 0.000027939675
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.010561259
+        inSlope: -0.014360993
+        outSlope: -0.0144168725
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.011501655
+        inSlope: -0.055544075
+        outSlope: -0.05559996
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.014086129
+        inSlope: -0.08395874
+        outSlope: -0.083874896
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.016996382
+        inSlope: -0.06051733
+        outSlope: -0.060629103
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.018744834
+        inSlope: -0.022072347
+        outSlope: -0.022016468
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.019241238
+        inSlope: -0.006202609
+        outSlope: -0.005923212
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.019241238
+        inSlope: 0.000055879358
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.009060043
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.009060043
+        inSlope: 0.019390134
+        outSlope: 0.019446013
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.007764557
+        inSlope: 0.0796141
+        outSlope: 0.07969794
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.003838615
+        inSlope: 0.14540507
+        outSlope: 0.14543298
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.0014778348
+        inSlope: 0.15083233
+        outSlope: 0.15070663
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.0054672984
+        inSlope: 0.08873642
+        outSlope: 0.088457026
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.0067965332
+        inSlope: 0.02101064
+        outSlope: 0.020843001
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.0067965332
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9998187
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.9998187
+        inSlope: -0.010728835
+        outSlope: -0.010728835
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.9978163
+        inSlope: -0.19669531
+        outSlope: -0.19848348
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.976483
+        inSlope: -1.1318923
+        outSlope: -1.1336801
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.91367865
+        inSlope: -2.1439788
+        outSlope: -2.1457675
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.84150535
+        inSlope: -1.6504527
+        outSlope: -1.6468765
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8125012
+        inSlope: -0.45061114
+        outSlope: -0.448823
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.8125012
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.016483495
+        inSlope: 0
+        outSlope: -0.00072643155
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.016483495
+        inSlope: 0.68424267
+        outSlope: 0.6856955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.062181376
+        inSlope: 2.6696918
+        outSlope: 2.6732686
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.19438517
+        inSlope: 4.513711
+        outSlope: 4.514604
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.3624473
+        inSlope: 4.2977924
+        outSlope: 4.2960052
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.4831306
+        inSlope: 2.3487213
+        outSlope: 2.345145
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.52262104
+        inSlope: 0.5847216
+        outSlope: 0.58114535
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.52262104
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.073335804
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.073335804
+        inSlope: 0.04738569
+        outSlope: 0.047832724
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.07011658
+        inSlope: 0.19960104
+        outSlope: 0.20116569
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.059909683
+        inSlope: 0.39260837
+        outSlope: 0.39260828
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.044902086
+        inSlope: 0.44122332
+        outSlope: 0.44133517
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.03252665
+        inSlope: 0.27146193
+        outSlope: 0.27135018
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.02813872
+        inSlope: 0.067725785
+        outSlope: 0.06750227
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.02813872
+        inSlope: -0.000111758716
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.008949762
+        inSlope: 0
+        outSlope: 0.000027939675
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.008949762
+        inSlope: -0.021345912
+        outSlope: -0.02140179
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.010347238
+        inSlope: -0.084657215
+        outSlope: -0.08476899
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.014288806
+        inSlope: -0.13444574
+        outSlope: -0.13433395
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.01906908
+        inSlope: -0.10661779
+        outSlope: -0.106785454
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.022320487
+        inSlope: -0.0487268
+        outSlope: -0.0487268
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.023346093
+        inSlope: -0.01396984
+        outSlope: -0.013634563
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.023346093
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99713093
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.99713093
+        inSlope: -0.007152557
+        outSlope: -0.007152557
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.99554515
+        inSlope: -0.15199183
+        outSlope: -0.15556814
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.97898984
+        inSlope: -0.87261206
+        outSlope: -0.8744
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.93072677
+        inSlope: -1.6522405
+        outSlope: -1.6558172
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.8746592
+        inSlope: -1.2892486
+        outSlope: -1.2874604
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.85178083
+        inSlope: -0.35405162
+        outSlope: -0.35941604
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.85178083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00079479476
+        inSlope: 0
+        outSlope: -0.000729924
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.0007947937
+        inSlope: 0.73009866
+        outSlope: 0.7315253
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.047981355
+        inSlope: 2.8594582
+        outSlope: 2.8645995
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.18994729
+        inSlope: 4.8512225
+        outSlope: 4.853009
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.3707193
+        inSlope: 4.5990934
+        outSlope: 4.5973067
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.4992596
+        inSlope: 2.4890902
+        outSlope: 2.485514
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.54085666
+        inSlope: 0.61333185
+        outSlope: 0.61512
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.54085666
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0105927745
+        inSlope: 0
+        outSlope: 0.000027939675
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.0105927745
+        inSlope: -0.033248216
+        outSlope: -0.033332035
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.008394352
+        inSlope: -0.13799407
+        outSlope: -0.13824554
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.0018496839
+        inSlope: -0.25130343
+        outSlope: -0.25127545
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.006818093
+        inSlope: -0.2587493
+        outSlope: -0.25853983
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.0132438075
+        inSlope: -0.14986844
+        outSlope: -0.1497008
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.015378635
+        inSlope: -0.03397465
+        outSlope: -0.03414229
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.015378639
+        inSlope: -0.000055879358
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0011225805
+        inSlope: 0
+        outSlope: -0.00006635673
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.0011225797
+        inSlope: 0.062752515
+        outSlope: 0.06287824
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.005295949
+        inSlope: 0.24768522
+        outSlope: 0.24814625
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.01742633
+        inSlope: 0.41373077
+        outSlope: 0.41378656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.03283482
+        inSlope: 0.37193292
+        outSlope: 0.371933
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.043761663
+        inSlope: 0.19099565
+        outSlope: 0.19054861
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.047291465
+        inSlope: 0.050179664
+        outSlope: 0.049397353
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.04729154
+        inSlope: -0.00022351743
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.999943
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.999943
+        inSlope: 0.0017881392
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.9987989
+        inSlope: -0.13947487
+        outSlope: -0.13768674
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.9816379
+        inSlope: -0.9459258
+        outSlope: -0.9477137
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.9281393
+        inSlope: -1.852512
+        outSlope: -1.8507243
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.8652453
+        inSlope: -1.4466048
+        outSlope: -1.4448167
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8396434
+        inSlope: -0.3987551
+        outSlope: -0.40054324
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.8396434
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.013001822
+        inSlope: 0
+        outSlope: -0.0007543712
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.013001822
+        inSlope: 0.74998474
+        outSlope: 0.75149345
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.06309137
+        inSlope: 2.9403715
+        outSlope: 2.9450657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.20895043
+        inSlope: 4.978627
+        outSlope: 4.9804144
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.39413
+        inSlope: 4.6902885
+        outSlope: 4.689396
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5247329
+        inSlope: 2.5194886
+        outSlope: 2.5105479
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.5666898
+        inSlope: 0.6204844
+        outSlope: 0.61690813
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.5666898
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0096748555
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.0096748555
+        inSlope: -0.021345912
+        outSlope: -0.02140179
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.008264455
+        inSlope: -0.09041279
+        outSlope: -0.09046868
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.004010918
+        inSlope: -0.17057174
+        outSlope: -0.17050186
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.0017260183
+        inSlope: -0.18607822
+        outSlope: -0.18588269
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.006037373
+        inSlope: -0.1147762
+        outSlope: -0.114552684
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.007478595
+        inSlope: -0.024810435
+        outSlope: -0.024586918
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.007478595
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0070989714
+        inSlope: 0
+        outSlope: -0.00005587935
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.0070989714
+        inSlope: 0.047455538
+        outSlope: 0.047567297
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.010253281
+        inSlope: 0.18579884
+        outSlope: 0.18607827
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.019346915
+        inSlope: 0.30236322
+        outSlope: 0.3026984
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.03068138
+        inSlope: 0.25738028
+        outSlope: 0.2574921
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.038509406
+        inSlope: 0.12204052
+        outSlope: 0.12192876
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.040989105
+        inSlope: 0.0333041
+        outSlope: 0.03319234
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.040989105
+        inSlope: 0.000111758716
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9998434
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.9998434
+        inSlope: -0.008940696
+        outSlope: -0.008940696
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.9979209
+        inSlope: -0.18775462
+        outSlope: -0.18775465
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.97772664
+        inSlope: -1.0675193
+        outSlope: -1.0710953
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.9185408
+        inSlope: -2.0205972
+        outSlope: -2.0205977
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.85037404
+        inSlope: -1.5610458
+        outSlope: -1.5574695
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8228771
+        inSlope: -0.42736533
+        outSlope: -0.4255772
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.8228771
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0075902734
+        inSlope: 0
+        outSlope: -0.0006705522
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.007590275
+        inSlope: 0.6697839
+        outSlope: 0.67118084
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.037165083
+        inSlope: 2.6132538
+        outSlope: 2.6171656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.16673827
+        inSlope: 4.431904
+        outSlope: 4.434138
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.33215284
+        inSlope: 4.2495127
+        outSlope: 4.2477255
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.45192078
+        inSlope: 2.3406746
+        outSlope: 2.3379924
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.49138004
+        inSlope: 0.5829335
+        outSlope: 0.58114535
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.49138004
+        inSlope: -0.00089406973
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.013886512
+        inSlope: 0
+        outSlope: -0.000027939675
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.013886512
+        inSlope: -0.0041071326
+        outSlope: -0.004135072
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.013615273
+        inSlope: -0.020368023
+        outSlope: -0.020368027
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.012672098
+        inSlope: -0.046603385
+        outSlope: -0.046715133
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.01111056
+        inSlope: -0.05864537
+        outSlope: -0.058505688
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.009699921
+        inSlope: -0.037746508
+        outSlope: -0.03752299
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.00917617
+        inSlope: -0.00871718
+        outSlope: -0.008661301
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.00917617
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.016617293
+        inSlope: 0
+        outSlope: -0.00005587935
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.016617293
+        inSlope: 0.024363397
+        outSlope: 0.024531035
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.014975239
+        inSlope: 0.09818002
+        outSlope: 0.09845943
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.010034815
+        inSlope: 0.17412008
+        outSlope: 0.17425974
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.0033058412
+        inSlope: 0.17293958
+        outSlope: 0.17289771
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.0018968047
+        inSlope: 0.09869692
+        outSlope: 0.09848737
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.0036805524
+        inSlope: 0.02615154
+        outSlope: 0.026039781
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.0036805524
+        inSlope: -0.000027939679
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99973667
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.99973667
+        inSlope: 0.0053644176
+        outSlope: 0.0053644176
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.99910414
+        inSlope: -0.09477138
+        outSlope: -0.09655953
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.98586875
+        inSlope: -0.74565417
+        outSlope: -0.74923027
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.9431543
+        inSlope: -1.4984605
+        outSlope: -1.4930965
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.8920033
+        inSlope: -1.1855365
+        outSlope: -1.1837484
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.8708892
+        inSlope: -0.3308058
+        outSlope: -0.3308058
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.8708892
+        inSlope: 0.0017881395
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02411879
+        inSlope: 0
+        outSlope: -0.0007823109
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.024118792
+        inSlope: 0.77191734
+        outSlope: 0.77348197
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.07561375
+        inSlope: 3.126338
+        outSlope: 3.1310322
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.23144256
+        inSlope: 5.4936113
+        outSlope: 5.4971867
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.43653718
+        inSlope: 5.212425
+        outSlope: 5.2115326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5787589
+        inSlope: 2.7197602
+        outSlope: 2.716184
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.6226193
+        inSlope: 0.6473065
+        outSlope: 0.6437302
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.6226193
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.10251587
+        inSlope: 0
+        outSlope: 0.0002235174
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.10251587
+        inSlope: -0.29012558
+        outSlope: -0.29146668
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.08286194
+        inSlope: -1.1743604
+        outSlope: -1.1768193
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.021145388
+        inSlope: -2.0525606
+        outSlope: -2.055466
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.06579162
+        inSlope: -1.8473711
+        outSlope: -1.8482656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.13095962
+        inSlope: -1.0518731
+        outSlope: -1.0465087
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.15215588
+        inSlope: -0.30085447
+        outSlope: -0.30040744
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.15215588
+        inSlope: -0.00089406973
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0167706
+        inSlope: 0
+        outSlope: 0.00016763805
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.016770598
+        inSlope: -0.20032747
+        outSlope: -0.20071863
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.03030411
+        inSlope: -0.77197325
+        outSlope: -0.7733703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.07104844
+        inSlope: -1.2134762
+        outSlope: -1.2154875
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.12414123
+        inSlope: -0.8806585
+        outSlope: -0.88155276
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.16050208
+        inSlope: -0.45731667
+        outSlope: -0.45686963
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.17161304
+        inSlope: -0.15020372
+        outSlope: -0.14752151
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -0.17161304
+        inSlope: 0.00044703486
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9942975
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.9942975
+        inSlope: 0.008940696
+        outSlope: 0.0053644176
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.9932261
+        inSlope: -0.16272067
+        outSlope: -0.16450883
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.97002035
+        inSlope: -1.3536216
+        outSlope: -1.3571975
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.8886483
+        inSlope: -2.8198953
+        outSlope: -2.819896
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.7887501
+        inSlope: -2.2655728
+        outSlope: -2.2602084
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.74815965
+        inSlope: -0.63121325
+        outSlope: -0.63121325
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.74815965
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.08750358
+        inSlope: 0
+        outSlope: 0.74453646
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.0035699415
+        inSlope: 1.2607499
+        outSlope: 1.2598281
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.046188902
+        inSlope: 0.19541012
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.17877036
+        inSlope: 0
+        outSlope: 0.002235174
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.17789097
+        inSlope: -0.023022292
+        outSlope: -0.023022296
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.17707922
+        inSlope: -0.0006705523
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.020985099
+        inSlope: 0
+        outSlope: -0.13081357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.006157413
+        inSlope: -0.22251157
+        outSlope: -0.22235096
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.002668553
+        inSlope: -0.03489666
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.97976726
+        inSlope: 0
+        outSlope: 0.068843365
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.98402447
+        inSlope: 0.010728835
+        outSlope: 0.009834767
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.9831085
+        inSlope: -0.009834767
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0180917
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.2
+        value: 47.761
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 47.761
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.942988
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.2
+        value: 3.7140002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 3.7140002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.6065003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.2
+        value: 2.39
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 2.39
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.17217416
+        inSlope: 0.00054180674
+        outSlope: 0.00054180674
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.17217414
+        inSlope: 85.63356
+        outSlope: 85.63356
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 5.540375
+        inSlope: 335.8373
+        outSlope: 335.8373
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 22.321772
+        inSlope: 579.69226
+        outSlope: 579.69226
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 44.471172
+        inSlope: 580.9339
+        outSlope: 580.9339
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 61.22924
+        inSlope: 336.15414
+        outSlope: 336.15414
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 66.92291
+        inSlope: 85.32021
+        outSlope: 85.32021
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 66.92291
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.70296717
+        inSlope: -0.00047206922
+        outSlope: -0.00047206922
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.70296717
+        inSlope: -3.369158
+        outSlope: -3.369158
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.4775828
+        inSlope: -13.268933
+        outSlope: -13.268933
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.22916321
+        inSlope: -25.576803
+        outSlope: -25.576803
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -1.51685
+        inSlope: -40.58392
+        outSlope: -40.58392
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -3.411784
+        inSlope: -51.199642
+        outSlope: -51.199642
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -4.6009765
+        inSlope: -21.115261
+        outSlope: -21.115261
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -4.600976
+        inSlope: 0.00020027156
+        outSlope: 0.00020027156
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.252567
+        inSlope: -0.0003218654
+        outSlope: -0.0003218654
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -2.252567
+        inSlope: 0.03813032
+        outSlope: 0.03813032
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -2.2631347
+        inSlope: -0.8511623
+        outSlope: -0.8511623
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -2.4351301
+        inSlope: -8.382147
+        outSlope: -8.382147
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -3.157381
+        inSlope: -26.798597
+        outSlope: -26.798597
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -4.684101
+        inSlope: -44.075844
+        outSlope: -44.075844
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -5.75496
+        inSlope: -19.35671
+        outSlope: -19.35671
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -5.75496
+        inSlope: -0.000028610222
+        outSlope: -0.000028610222
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.8220735
+        inSlope: 0.0005579
+        outSlope: 0.0005579
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 5.8220735
+        inSlope: 79.00744
+        outSlope: 79.00744
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 11.0920315
+        inSlope: 308.4667
+        outSlope: 308.4667
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 26.467684
+        inSlope: 530.41925
+        outSlope: 530.41925
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 46.67332
+        inSlope: 531.5558
+        outSlope: 531.5558
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 62.04778
+        inSlope: 309.24432
+        outSlope: 309.24432
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 67.31687
+        inSlope: 79.01746
+        outSlope: 79.01746
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 67.31687
+        inSlope: 0.00022888178
+        outSlope: 0.00022888178
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -3.6921165
+        inSlope: 0.0006222731
+        outSlope: 0.0006222731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -3.6921165
+        inSlope: 0.7284672
+        outSlope: 0.7284672
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -3.6429281
+        inSlope: 2.8922396
+        outSlope: 2.8922396
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -3.4851255
+        inSlope: 5.764824
+        outSlope: 5.764824
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -3.1911337
+        inSlope: 9.3175955
+        outSlope: 9.3175955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -2.7601182
+        inSlope: 11.553275
+        outSlope: 11.553275
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -2.4944553
+        inSlope: 4.6793385
+        outSlope: 4.6793385
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -2.494455
+        inSlope: 0.00017881389
+        outSlope: 0.00017881389
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5255143
+        inSlope: 0.00014483942
+        outSlope: 0.00014483942
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.5255142
+        inSlope: 0.06879873
+        outSlope: 0.06879873
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.53275585
+        inSlope: 0.4706101
+        outSlope: 0.4706101
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.5840186
+        inSlope: 2.304717
+        outSlope: 2.304717
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.76194125
+        inSlope: 6.4470334
+        outSlope: 6.4470334
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1.1154045
+        inSlope: 10.043018
+        outSlope: 10.043018
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.3558044
+        inSlope: 4.3025403
+        outSlope: 4.3025403
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 1.3558047
+        inSlope: 0.0000071525556
+        outSlope: 0.0000071525556
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Index_1/VRTK_Hand_Bone_Index_2/VRTK_Hand_Bone_Index_3/VRTK_Hand_Bone_Index_4/VRTK_Hand_Bone_Index_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.478227
+        inSlope: 0.000118017306
+        outSlope: 0.000118017306
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.478227
+        inSlope: 88.6736
+        outSlope: 88.6736
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 7.393993
+        inSlope: 348.53433
+        outSlope: 348.53433
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 24.832954
+        inSlope: 602.8513
+        outSlope: 602.8513
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 47.910786
+        inSlope: 604.57996
+        outSlope: 604.57996
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 65.34764
+        inSlope: 349.65283
+        outSlope: 349.65283
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 71.260956
+        inSlope: 88.661446
+        outSlope: 88.661446
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 71.260956
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.2240051
+        inSlope: -0.00054717116
+        outSlope: -0.00054717116
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -1.2240051
+        inSlope: -2.4628603
+        outSlope: -2.4628603
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -1.3842148
+        inSlope: -9.372581
+        outSlope: -9.372581
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -1.8413543
+        inSlope: -15.843663
+        outSlope: -15.843663
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -2.5531106
+        inSlope: -21.372076
+        outSlope: -21.372076
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -3.5247958
+        inSlope: -26.48652
+        outSlope: -26.48652
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -4.167691
+        inSlope: -11.7716465
+        outSlope: -11.7716465
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -4.167691
+        inSlope: 0.00008583067
+        outSlope: 0.00008583067
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.0541552
+        inSlope: -0.0001609327
+        outSlope: -0.0001609327
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -1.0541552
+        inSlope: 1.2371755
+        outSlope: 1.2371755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.9811264
+        inSlope: 4.1389637
+        outSlope: 4.1389637
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.8559005
+        inSlope: 2.895866
+        outSlope: 2.895866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.9491414
+        inSlope: -6.2868357
+        outSlope: -6.2868357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -1.5165293
+        inSlope: -18.649542
+        outSlope: -18.649542
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -2.0292392
+        inSlope: -9.8358555
+        outSlope: -9.8358555
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -2.0292392
+        inSlope: -0.00010013578
+        outSlope: -0.00010013578
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.8085393
+        inSlope: 0.00059008657
+        outSlope: 0.00059008657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.8085393
+        inSlope: 78.23019
+        outSlope: 78.23019
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 7.028191
+        inSlope: 305.50473
+        outSlope: 305.50473
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 22.264948
+        inSlope: 525.74384
+        outSlope: 525.74384
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 42.29641
+        inSlope: 527.03046
+        outSlope: 527.03046
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 57.53261
+        inSlope: 306.30963
+        outSlope: 306.30963
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 62.74825
+        inSlope: 78.175285
+        outSlope: 78.175285
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 62.74825
+        inSlope: 0.00011444089
+        outSlope: 0.00011444089
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -8.431034
+        inSlope: -0.00034332307
+        outSlope: -0.00034332307
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -8.431034
+        inSlope: 4.4573636
+        outSlope: 4.4573636
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -8.161388
+        inSlope: 15.301566
+        outSlope: 15.301566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -7.6288214
+        inSlope: 14.4203415
+        outSlope: 14.4203415
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -7.567155
+        inSlope: -6.759431
+        outSlope: -6.759431
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -8.405035
+        inSlope: -27.257425
+        outSlope: -27.257425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -9.08956
+        inSlope: -12.373923
+        outSlope: -12.373923
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -9.08956
+        inSlope: -0.00017166133
+        outSlope: -0.00017166133
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.1618047
+        inSlope: -0.000042915384
+        outSlope: -0.000042915384
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -1.1618047
+        inSlope: -8.162892
+        outSlope: -8.162892
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -1.6930021
+        inSlope: -30.869669
+        outSlope: -30.869669
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -3.175739
+        inSlope: -50.77094
+        outSlope: -50.77094
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -5.278329
+        inSlope: -59.96558
+        outSlope: -59.96558
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -7.543696
+        inSlope: -54.939068
+        outSlope: -54.939068
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -8.689973
+        inSlope: -19.230368
+        outSlope: -19.230368
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -8.689973
+        inSlope: -0.000028610222
+        outSlope: -0.000028610222
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Middle_1/VRTK_Hand_Bone_Middle_2/VRTK_Hand_Bone_Middle_3/VRTK_Hand_Bone_Middle_4/VRTK_Hand_Bone_Middle_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.09243424
+        inSlope: 0.00031515985
+        outSlope: 0.00031515985
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.092434116
+        inSlope: 83.74095
+        outSlope: 83.74095
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 5.49498
+        inSlope: 328.16742
+        outSlope: 328.16742
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 21.891766
+        inSlope: 566.3399
+        outSlope: 566.3399
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 43.519863
+        inSlope: 567.6555
+        outSlope: 567.6555
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 59.896767
+        inSlope: 328.54755
+        outSlope: 328.54755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 65.465034
+        inSlope: 83.414764
+        outSlope: 83.414764
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 65.465034
+        inSlope: 0.00017166123
+        outSlope: 0.00017166123
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.2137632
+        inSlope: 0.0002574923
+        outSlope: 0.0002574923
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.2137632
+        inSlope: -3.7350976
+        outSlope: -3.7350976
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.99450475
+        inSlope: -12.359818
+        outSlope: -12.359818
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.63303393
+        inSlope: -8.024817
+        outSlope: -8.024817
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.9236115
+        inSlope: 18.379877
+        outSlope: 18.379877
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 2.3743255
+        inSlope: 44.8937
+        outSlope: 44.8937
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 3.497285
+        inSlope: 20.436123
+        outSlope: 20.436123
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 3.4972944
+        inSlope: 0.00023603419
+        outSlope: 0.00023603419
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.12766641
+        inSlope: -0.0003486875
+        outSlope: -0.0003486875
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.12766632
+        inSlope: 8.0952015
+        outSlope: 8.0952015
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.65532213
+        inSlope: 30.790852
+        outSlope: 30.790852
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 2.1564798
+        inSlope: 51.924267
+        outSlope: 51.924267
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 4.420896
+        inSlope: 66.56738
+        outSlope: 66.56738
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 7.15888
+        inSlope: 69.80035
+        outSlope: 69.80035
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 8.695789
+        inSlope: 26.584631
+        outSlope: 26.584631
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 8.695806
+        inSlope: 0.0007939332
+        outSlope: 0.0007939332
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4/VRTK_Hand_Bone_Pinkie_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.4819605
+        inSlope: -0.0003218654
+        outSlope: -0.0003218654
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.4819605
+        inSlope: 86.069405
+        outSlope: 86.069405
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 7.2241216
+        inSlope: 337.73108
+        outSlope: 337.73108
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 24.106722
+        inSlope: 583.2951
+        outSlope: 583.2951
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 46.398586
+        inSlope: 584.41797
+        outSlope: 584.41797
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 63.240376
+        inSlope: 337.4955
+        outSlope: 337.4955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 68.94645
+        inSlope: 85.42527
+        outSlope: 85.42527
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 68.94645
+        inSlope: 0.00022888178
+        outSlope: 0.00022888178
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.1195055
+        inSlope: -0.000118017306
+        outSlope: -0.000118017306
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.1195055
+        inSlope: -1.7414527
+        outSlope: -1.7414527
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.0274066
+        inSlope: -4.998623
+        outSlope: -4.998623
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.9998706
+        inSlope: 3.1043541
+        outSlope: 3.1043541
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.7461404
+        inSlope: 31.654463
+        outSlope: 31.654463
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 3.8390942
+        inSlope: 63.467453
+        outSlope: 63.467453
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 5.454596
+        inSlope: 29.857412
+        outSlope: 29.857412
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 5.454596
+        inSlope: 0.00018596645
+        outSlope: 0.00018596645
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8280752
+        inSlope: -0.00036478078
+        outSlope: -0.00036478078
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.8280752
+        inSlope: 6.2769547
+        outSlope: 6.2769547
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.2422037
+        inSlope: 24.29088
+        outSlope: 24.29088
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 2.4807098
+        inSlope: 43.891518
+        outSlope: 43.891518
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 4.574618
+        inSlope: 64.583405
+        outSlope: 64.583405
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 7.5500054
+        inSlope: 80.572075
+        outSlope: 80.572075
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 9.449897
+        inSlope: 34.08584
+        outSlope: 34.08584
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 9.449897
+        inSlope: 0.00020027156
+        outSlope: 0.00020027156
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.8431399
+        inSlope: -0.000021457692
+        outSlope: -0.000021457692
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.84314
+        inSlope: 76.838425
+        outSlope: 76.838425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 4.282339
+        inSlope: 299.6419
+        outSlope: 299.6419
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 19.209206
+        inSlope: 514.7601
+        outSlope: 514.7601
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 38.80091
+        inSlope: 515.80927
+        outSlope: 515.80927
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 53.725613
+        inSlope: 300.32968
+        outSlope: 300.32968
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 58.849056
+        inSlope: 76.82465
+        outSlope: 76.82465
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 58.849056
+        inSlope: -0.00011444089
+        outSlope: -0.00011444089
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.6056952
+        inSlope: -0.00021457692
+        outSlope: -0.00021457692
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.6056952
+        inSlope: -1.7951076
+        outSlope: -1.7951076
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.4993775
+        inSlope: -5.9831557
+        outSlope: -5.9831557
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 1.3130778
+        inSlope: -4.496341
+        outSlope: -4.496341
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.379495
+        inSlope: 5.796098
+        outSlope: 5.796098
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1.8421344
+        inSlope: 13.918379
+        outSlope: 13.918379
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 2.17142
+        inSlope: 5.792825
+        outSlope: 5.792825
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 2.17142
+        inSlope: 0.00008583067
+        outSlope: 0.00008583067
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.9163426
+        inSlope: -0.00059008657
+        outSlope: -0.00059008657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -1.9163426
+        inSlope: 3.9064267
+        outSlope: 3.9064267
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -1.661384
+        inSlope: 14.811698
+        outSlope: 14.811698
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.9441388
+        inSlope: 24.658724
+        outSlope: 24.658724
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.084177725
+        inSlope: 29.385258
+        outSlope: 29.385258
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1.1767981
+        inSlope: 26.104233
+        outSlope: 26.104233
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.7091414
+        inSlope: 8.8046055
+        outSlope: 8.8046055
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 1.7091414
+        inSlope: 0.00013232228
+        outSlope: 0.00013232228
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Ring_1/VRTK_Hand_Bone_Ring_2/VRTK_Hand_Bone_Ring_3/VRTK_Hand_Bone_Ring_4/VRTK_Hand_Bone_Ring_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.9463592
+        inSlope: -0.0005579
+        outSlope: -0.0005579
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 2.9463594
+        inSlope: 90.06684
+        outSlope: 90.06684
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 8.929857
+        inSlope: 362.34473
+        outSlope: 362.34473
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 26.872883
+        inSlope: 629.0396
+        outSlope: 629.0396
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 49.421993
+        inSlope: 548.53107
+        outSlope: 548.53107
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 60.569656
+        inSlope: 141.55795
+        outSlope: 141.55795
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 61.571667
+        inSlope: 3.7226655
+        outSlope: 3.7226655
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 61.571667
+        inSlope: -0.00011444089
+        outSlope: -0.00011444089
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 11.731306
+        inSlope: -0.00017166154
+        outSlope: -0.00017166154
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 11.731306
+        inSlope: -34.94497
+        outSlope: -34.94497
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 9.321947
+        inSlope: -147.49692
+        outSlope: -147.49692
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.5225767
+        inSlope: -342.81964
+        outSlope: -342.81964
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -20.266203
+        inSlope: -703.3384
+        outSlope: -703.3384
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -52.99056
+        inSlope: -809.95
+        outSlope: -809.95
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -67.993126
+        inSlope: -229.94763
+        outSlope: -229.94763
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -67.993126
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.6298497
+        inSlope: 0.00023603461
+        outSlope: 0.00023603461
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -1.6298494
+        inSlope: -14.759889
+        outSlope: -14.759889
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -2.7656817
+        inSlope: -71.4781
+        outSlope: -71.4781
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: -8.253367
+        inSlope: -233.06512
+        outSlope: -233.06512
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -25.308558
+        inSlope: -610.87427
+        outSlope: -610.87427
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -55.465714
+        inSlope: -759.5763
+        outSlope: -759.5763
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -69.61956
+        inSlope: -217.24188
+        outSlope: -217.24188
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -69.61956
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -10.309731
+        inSlope: 86.85353
+        outSlope: 86.85353
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.52807486
+        inSlope: 146.66235
+        outSlope: 146.66235
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 5.2650104
+        inSlope: 22.717789
+        outSlope: 22.717789
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 20.629436
+        inSlope: -0.79393464
+        outSlope: -0.79393464
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 20.491537
+        inSlope: -2.0171018
+        outSlope: -2.0171018
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 20.450853
+        inSlope: 0.25686288
+        outSlope: 0.25686288
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.5727565
+        inSlope: 0.56591445
+        outSlope: 0.56591445
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.62158144
+        inSlope: 0.6110861
+        outSlope: 0.6110861
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.6393374
+        inSlope: 0.057960805
+        outSlope: 0.057960805
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Thumb_1/VRTK_Hand_Bone_Thumb_2/VRTK_Hand_Bone_Thumb_3/VRTK_Hand_Bone_Thumb_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Armature/VRTK_Hand_Bone_Forearm/VRTK_Hand_Bone_Wrist/VRTK_Hand_Bone_Palm/VRTK_Hand_Bone_Pinkie_1/VRTK_Hand_Bone_Pinkie_2/VRTK_Hand_Bone_Pinkie_3/VRTK_Hand_Bone_Pinkie_4
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
