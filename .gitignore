@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/VRTK/Examples/ExampleResources/SceneResources/\[001 - Interactions\] ControllerEvents/Scripts/VRTKExample_ControllerEventsDelegateListeners.cs
+Assets/VRTK/Examples/ExampleResources/SceneResources/\[001 - Interactions\] ControllerEvents/Scripts/VRTKExample_ControllerEventsDelegateListeners.cs.meta
+Assets/VRTK/Examples/ExampleResources/SceneResources/\[002 - Pointers\] StraightPointer/Scripts/VRTKExample_PointerObjectHighlighterActivator.cs.meta
+Assets/VRTK/Examples/ExampleResources/SceneResources/\[003 - Pointers\] BezierPointer/Prefabs/PointerLineRenderer/PointerLineRenderer.prefab.meta
+Assets/VRTK/Examples/ExampleResources/SceneResources/\[005 - Interactions\] InteractableObjects/Materials/SnapDropZoneCylinderHighlighter.mat.meta
